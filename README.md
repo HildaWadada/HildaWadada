@@ -4,13 +4,13 @@
 
 I'm a software engineer from Uganda who builds scalable web applications, backend systems, and AI-powered products for real-world problems, with a focus on African markets.
 
-## 🚀 About Me
+##  About Me
 
-* 💻 Full-Stack Developer specializing in **Next.js, React, Node.js, and Python (FastAPI)**.
-* 🤖 AI Engineer building **RAG pipelines and LLM agents** with **LangChain, LangGraph, ChromaDB**, and the OpenAI / Groq APIs.
-* 🏗️ Passionate about **backend architecture**, automation, and developer productivity.
-* 🌍 Building for African users: multilingual interfaces, local market data, and region-aware infrastructure.
-* 🤝 Open to collaborations, open-source contributions, and new opportunities.
+*  Full-Stack Developer specializing in **Next.js, React, Node.js, and Python (FastAPI)**.
+*  AI Engineer building **RAG pipelines and LLM agents** with **LangChain, LangGraph, ChromaDB**, and the OpenAI / Groq APIs.
+*  Passionate about **backend architecture**, automation, and developer productivity.
+*  Building for African users: multilingual interfaces, local market data, and region-aware infrastructure.
+*  Open to collaborations, open-source contributions, and new opportunities.
 
 ## 🛠️ Tech Stack
 
@@ -56,13 +56,13 @@ An AI tool that helps artists understand and prepare for music deals.
 * Multilingual UI: English, Swahili, Nigerian Pidgin, and Luganda
 * Next.js 14 frontend on Vercel, FastAPI backend on Railway
 
-### 💰 Lumi: AI Financial Tracker
+###  Lumi: AI Financial Tracker
 An AI-powered personal finance tracker, built in collaboration.
 
-### 🤰 MamaCare: Maternal Health Assistant
+###  MamaCare: Maternal Health Assistant
 A maternal health assistant built for the Africa's Talking hackathon, in collaboration.
 
-### 🌱 Farm Management Platform
+###  Farm Management Platform
 A client build for managing farm operations across multiple crops.
 
 * Next.js 14 + FastAPI + PostgreSQL
@@ -71,7 +71,7 @@ A client build for managing farm operations across multiple crops.
 
 ## 🎓 Education
 
-* **Turing College**: Certificate in Software & AI Engineering
+* **Turing College**: Certificate in Software & AI Engineering (2026)
 * **Refactory Academy**: Certificate in Software Engineering with JavaScript (2025)
 
 ---
