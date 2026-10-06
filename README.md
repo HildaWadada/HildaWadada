@@ -1,84 +1,79 @@
-# Hi there, I'm Hilda Wadada 
+# Hi there, I'm Hilda Wadada 👋
 
 ### Full-Stack Developer & AI Engineer
 
-I'm a passionate software engineer from Uganda who enjoys building scalable web applications, backend systems, and AI-powered solutions that solve real world problems.
+I'm a software engineer from Uganda who builds scalable web applications, backend systems, and AI-powered products for real-world problems, with a focus on African markets.
 
-##  About Me
+## 🚀 About Me
 
-*  Full-Stack Developer specializing in **Node.js, React, Next.js, and Python (FastAPI)**.
-*  AI Engineer with experience integrating **OpenAI APIs and Large Language Models (LLMs)**.
-*  Passionate about **backend architecture**, automation tools, and developer productivity.
-*  Continuously learning and exploring new technologies in **AI, cloud computing, and scalable systems**.
-*  Open to collaborations, open-source contributions, and exciting opportunities.
+* 💻 Full-Stack Developer specializing in **Next.js, React, Node.js, and Python (FastAPI)**.
+* 🤖 AI Engineer building **RAG pipelines and LLM agents** with **LangChain, LangGraph, ChromaDB**, and the OpenAI / Groq APIs.
+* 🏗️ Passionate about **backend architecture**, automation, and developer productivity.
+* 🌍 Building for African users: multilingual interfaces, local market data, and region-aware infrastructure.
+* 🤝 Open to collaborations, open-source contributions, and new opportunities.
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-
 * JavaScript
 * TypeScript
 * Python
 
 ### Frameworks & Libraries
+* Next.js, React.js, Node.js
+* FastAPI, Flask
+* LangChain, LangGraph
+* Streamlit, Gradio
 
-* Node.js
-* React.js
-* Next.js
-* FastAPI
-* Streamlit
+### Databases & Infrastructure
+* PostgreSQL, MongoDB, ChromaDB
+* Docker, Alembic migrations
+* Railway, Vercel, Supabase
+* Git & GitHub, REST APIs
 
-### Databases & Tools
+### AI & Tooling
+* OpenAI API, Groq & LLM integration
+* Retrieval-Augmented Generation (RAG) and agent workflows
+* AI-assisted development (Cursor, Claude, GitHub Copilot)
 
-* PostgreSQL
-* Docker
-* Git & GitHub
-* REST APIs
-* OpenAI API & LLM Integration
-* AI-Assisted Development (Cursor, Claude & GitHub Copilot)
+## 📌 Featured Projects
 
-##  Featured Projects
+### 🐄 AgriFarms: Pan-African Cattle Trading Platform
+A marketplace for trading cattle across Africa.
 
-###  Mayondo Wood & Furniture Ltd – Business Management System
+* FastAPI + PostgreSQL + MongoDB backend with full marketplace endpoints
+* Cattle parts extension covering 12 categories
+* Role-based access, Alembic migrations, and Dockerized setup with seed scripts
+* Next.js 14 frontend integration with a typed API client
 
-A web-based platform that digitizes business operations through:
+### 🎵 FairSign: Music Deal Readiness for African Markets
+An AI tool that helps artists understand and prepare for music deals.
 
-* Inventory tracking
-* Sales reporting
-* Employee performance monitoring
-* Real-time business analytics
+* LangGraph agents with a ChromaDB-powered RAG pipeline
+* Deal Readiness Score and label matching built on real African label data
+* Market-specific music promotion guide
+* Google OAuth and email OTP authentication
+* Multilingual UI: English, Swahili, Nigerian Pidgin, and Luganda
+* Next.js 14 frontend on Vercel, FastAPI backend on Railway
 
-###  AI Interview App
+### 💰 Lumi: AI Financial Tracker
+An AI-powered personal finance tracker, built in collaboration.
 
-A configurable AI-powered interview platform featuring:
+### 🤰 MamaCare: Maternal Health Assistant
+A maternal health assistant built for the Africa's Talking hackathon, in collaboration.
 
-* OpenAI integration
-* Session persistence
-* Token usage tracking
-* Exportable interview reports
+### 🌱 Farm Management Platform
+A client build for managing farm operations across multiple crops.
 
-###  AI-Powered Quiz Application
+* Next.js 14 + FastAPI + PostgreSQL
+* Supervised data-entry flows and authentication
+* Operational reporting and dashboards
 
-An adaptive learning platform that:
+## 🎓 Education
 
-* Dynamically adjusts question difficulty
-* Evaluates open-ended responses using LLMs
-* Stores quiz progress and scores
-* Implements scalable backend architecture
+* **Turing College**: Certificate in Software & AI Engineering
+* **Refactory Academy**: Certificate in Software Engineering with JavaScript (2025)
 
-###  Cattle Management System
+---
 
-A digital farm management solution for:
-
-* Production monitoring
-* Inventory management
-* Operational reporting
-* Real-time dashboards
-
-##  Education
-
-* **Turing College** – Certificate in Software & AI Engineering
-* **Refactory Academy** – Certificate in Software Engineering with JavaScript
-
-
-⭐ *I enjoy building reliable software products that scale and leveraging AI to create practical solutions for real world challenges.*
+⭐ *I enjoy building reliable software products that scale and using AI to create practical solutions for real-world challenges.*
